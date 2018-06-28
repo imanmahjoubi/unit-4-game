@@ -15,7 +15,7 @@
 ###### The random number shown at the start of the game should be between 19 - 120
 
 ###### Each food should have a random hidden value between 1 - 12
-
+to run the game live https://imanmahjoubi.github.io/unit-4-game.io/
 
 
 
