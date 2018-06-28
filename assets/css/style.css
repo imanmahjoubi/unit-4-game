@@ -1,0 +1,73 @@
+body{
+	background-color: #ffee9a !important;
+	font-family: 'Fredoka One', cursive;
+
+}
+
+.header {
+	font-family: 'Fredoka One', cursive;
+	font-size: 50px;
+	color: #c84d56;
+	text-align: center;
+	width: 100%;
+}
+
+div{
+	padding: 10px;
+}
+
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+
+h1{
+	font-size: 25pt;
+}
+
+ol{
+	list-style: decimal inside; 
+}
+
+ul {
+	list-style: disc inside;
+	text-indent: 20px;
+}
+
+div.header, div.gems{
+	background-color: #ffee9a;
+}
+
+div.header, div.instructions{
+	width: 100%;
+	box-shadow: 5px 10px 18px #888888;
+	background-color: white;
+	border-radius: 25px;
+	margin: 10px;
+
+
+}
+
+.foodgrid {
+	width: 100%;
+	margin-top : 10%;
+}
+.gemImage{
+	height: 160px;
+	margin: 5px;
+	float: right;
+}
+
+/* colors */
+#cupcake{
+	color: #3092c7;
+}
+#icemelon{
+	color: #00aa59;
+}
+#pie{
+	color: #ec4b5f;
+}
+#icecream{
+	color: #ffc225;
+}
